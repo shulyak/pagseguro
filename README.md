@@ -40,7 +40,7 @@ Instalação via Composer
 ```composer.json
 {
     "require": {
-       "pagseguro/php": "@stable"
+       "shulyak/pagseguro": "@stable"
     }
 }
 ```
